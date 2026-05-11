@@ -1,7 +1,6 @@
 # GitHub User Finder 🔍
 
-**Автор:** [Ваше Имя Фамилия]  
-**GitHub:** [https://github.com/ваш-логин/github-user-finder](https://github.com/ваш-логин/github-user-finder)  
+**Автор:** [Егор Иванво]  
 **Дата:** Май 2026
 
 ## Описание проекта
